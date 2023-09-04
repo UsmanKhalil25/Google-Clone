@@ -2,8 +2,11 @@
 ## Project 0
 CS50 Web developement with python and JavaScript 
 ### Google Search
-![Uploading google.png…]()
+![google](https://github.com/UsmanKhalil25/Google-Clone/assets/142806683/f26493f4-0305-4f7b-8a0f-4649d655c3da)
+
 ### Google Image Search
-![Uploading google-images.png…]()
+![google-images](https://github.com/UsmanKhalil25/Google-Clone/assets/142806683/2b1c2bdd-05b9-4b91-afe4-841e1258492e)
+
 ### Google Advance Search
-![Uploading google-advance.png…]()
+![google-advance](https://github.com/UsmanKhalil25/Google-Clone/assets/142806683/fd6efe20-fd23-46a7-be71-d90ecd8843ae)
+
